@@ -16,6 +16,8 @@ This GoFit fitness app is made to assist users in keeping track of their physica
 <img src="pic1.jpg" width=300>
 The Gofit homepage is the first screen that the user sees after signing up and login in. The user can see his name, the date, the temperature, total duration of user workout, and total calories burned. Additionally, the user may view his workout history as well as the duration and calories burned of that exercise and at the bottom, a menu navigation bar is shown that user can click and launch it.
 
+<br>
+
 
 3. Learn Workout
 <img src="pic2.jpg" width=300>
