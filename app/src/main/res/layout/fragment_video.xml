@@ -1,0 +1,146 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back_color"
+    tools:context=".fragments.VideoFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="325sp"
+        android:layout_marginBottom="10sp"
+        android:foregroundGravity="center"
+        android:gravity="center"
+        android:text="Learn Workout"
+        android:textColor="@color/white"
+        android:textSize="26sp"
+        android:textStyle="bold" />
+
+    <VideoView
+        android:id="@+id/video_view"
+        android:layout_width="match_parent"
+        android:layout_height="230dp" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_gravity="bottom">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/btn_video1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:backgroundTint="#6AA2F0"
+                android:textColor="@color/white"
+                android:text="Push Up" />
+
+            <Button
+                android:id="@+id/btn_video2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:backgroundTint="#6AA2F0"
+                android:textColor="@color/white"
+                android:text="Inclined Push Up " />
+
+            <Button
+                android:id="@+id/btn_video3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:backgroundTint="#6AA2F0"
+                android:textColor="@color/white"
+                android:text="Sit Up " />
+
+            <Button
+                android:id="@+id/btn_video4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:backgroundTint="#6AA2F0"
+                android:textColor="@color/white"
+                android:text="Leg Raise " />
+
+            <Button
+                android:id="@+id/btn_video5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:backgroundTint="#6AA2F0"
+                android:textColor="@color/white"
+                android:text="Russian Twist " />
+
+            <Button
+                android:id="@+id/btn_video6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:backgroundTint="#6AA2F0"
+                android:textColor="@color/white"
+                android:text="Jogging " />
+
+            <Button
+                android:id="@+id/btn_video7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:backgroundTint="#6AA2F0"
+                android:textColor="@color/white"
+                android:text="Jumping Rope " />
+
+            <Button
+                android:id="@+id/btn_video8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:backgroundTint="#6AA2F0"
+                android:textColor="@color/white"
+                android:text="Burpees " />
+
+            <Button
+                android:id="@+id/btn_video9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:backgroundTint="#6AA2F0"
+                android:textColor="@color/white"
+                android:text="Squats " />
+
+            <Button
+                android:id="@+id/btn_video10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:backgroundTint="#6AA2F0"
+                android:textColor="@color/white"
+                android:text="Dumbbell Rows " />
+
+            <Button
+                android:id="@+id/btn_video11"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:backgroundTint="#6AA2F0"
+                android:textColor="@color/white"
+                android:text="Dumbbell Flys " />
+
+            <Button
+                android:id="@+id/btn_video12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:backgroundTint="#6AA2F0"
+                android:textColor="@color/white"
+                android:text="Plank " />
+
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>
