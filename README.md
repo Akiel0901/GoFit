@@ -31,16 +31,16 @@ The user will see a list of workouts here when he hits the third icon in the men
 <img src="pic4.jpg" width=300>
 The BMI Calculator is the last icon in the menu bar at the bottom, where the user can determine his BMI. Here the user chooses whether he is male or female and enters his height in centimeters, his weight in kilograms, and age. The results of the user's BMI will appear when he hits the Your BMI button, letting him know if he is underweight, normal weight, overweight, or obese.
 
-## Researcher/Developer:
+### Researcher/Developer:
 * Armando, Ashley Kiel 
 * Esteban III, Reynaldo
 * Mandita, Jhon Carlo
 * Ukang, Jayvee
 
-## Adviser: 
+### Adviser: 
 * Jefferson A. Costales
 
-## School Name:
+### School Name:
 Eulogio "Amang" Rodriguez Insitute of Science and Technology
 
 Nagtahan, Sampaloc, Manila, Philippines
@@ -49,10 +49,10 @@ College of Arts and Sciences
 
 ITE Department
 
-## Course: 
+### Course: 
 * Bachelor of Science in Information Technology
 
-## Date: 
+### Date: 
 * July 30, 2022
 
 
